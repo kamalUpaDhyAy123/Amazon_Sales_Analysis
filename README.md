@@ -36,7 +36,7 @@ To explore the analysis:
 
 ## Tableau Maps
 - 1
- ![Amazon Sales Analysis Demo](?raw=true)
+ ![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/new1.gif?raw=true)
 - 2
 ![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/new2.gif?raw=true)
 

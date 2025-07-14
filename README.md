@@ -36,7 +36,7 @@ To explore the analysis:
 
 - 
 - ![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/ScreenRecording2024-12-22221308-ezgif.com-video-to-gif-converter.gif?raw=true)
-![Amazon Sales Analysis Demo]()
+![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/new2.gif?raw=true)
 
 
 

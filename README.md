@@ -52,6 +52,14 @@ pip install pandas numpy matplotlib seaborn
 - `mainfilekamal.ipynb`: Main notebook with analysis
 - Other files: Supporting scripts and datasets
 
+## 🌍 Sales & Returns Map Visualizations
+
+Visual comparison of total sales and returns across countries.
+
+<p align="center">
+  <img src="" alt="Sales and Returns Maps" width="800"/>
+</p>
+
 ## License
 
 This project is for educational purposes and does not have a specific license.

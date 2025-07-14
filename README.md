@@ -54,7 +54,13 @@ pip install pandas numpy matplotlib seaborn
 
 ## 🌍 Sales & Returns Map Visualizations
 
-Visual comparison of total sales and returns across countries.
+## 🔍 Attrition Analysis
+
+This visualization highlights employee attrition based on various factors.
+
+- Age vs Attrition
+- Experience vs Attrition
+- Monthly Income vs Attrition
 
 <p align="center">
   <img src="https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/Screenshot%202025-07-14%20113348.png" alt="Sales and Returns Maps" width="800"/>

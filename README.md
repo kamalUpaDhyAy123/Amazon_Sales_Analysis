@@ -34,6 +34,8 @@ To explore the analysis:
 - Jupyter Notebook
 - Common data analysis libraries (pandas, numpy, matplotlib, seaborn, etc.)
 
+- ![Amazon Sales Analysis Demo](?raw=true)
+
 Install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn

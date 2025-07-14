@@ -60,6 +60,14 @@ Visual comparison of total sales and returns across countries.
   <img src="https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/Screenshot%202025-07-14%20113348.png" alt="Sales and Returns Maps" width="800"/>
 </p>
 
+## 📊 Age Distribution vs Attrition
+
+This visualization compares the overall age distribution and how attrition varies with age.
+
+<p align="center">
+  <img src="" alt="Age vs Attrition" width="800"/>
+</p>
+
 ## License
 
 This project is for educational purposes and does not have a specific license.

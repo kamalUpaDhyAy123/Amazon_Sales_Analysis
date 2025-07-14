@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn
 Visual comparison of total sales and returns across countries.
 
 <p align="center">
-  <img src="" alt="Sales and Returns Maps" width="800"/>
+  <img src="https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/Screenshot%202025-07-14%20113348.png" alt="Sales and Returns Maps" width="800"/>
 </p>
 
 ## License

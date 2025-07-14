@@ -33,7 +33,12 @@ To explore the analysis:
 - Python 3.x
 - Jupyter Notebook
 - Common data analysis libraries (pandas, numpy, matplotlib, seaborn, etc.)
+
+- 
 - ![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/ScreenRecording2024-12-22221308-ezgif.com-video-to-gif-converter.gif?raw=true)
+![Amazon Sales Analysis Demo]()
+
+
 
 Install the required libraries using pip:
 ```bash

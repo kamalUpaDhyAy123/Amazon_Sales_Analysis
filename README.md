@@ -1,5 +1,5 @@
 markdown
-# data-anayst
+# Amazon_Saless_Analysis
 
 This repository contains the project I completed during my Data Analyst Internship.
 

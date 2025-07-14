@@ -34,10 +34,11 @@ To explore the analysis:
 - Jupyter Notebook
 - Common data analysis libraries (pandas, numpy, matplotlib, seaborn, etc.)
 
-## Tableau Maps 
+## Tableau Maps
+-1
 - ![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/ScreenRecording2024-12-22221308-ezgif.com-video-to-gif-converter.gif?raw=true)
 - 2
-![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/new2.gif?raw=true)
+-![Amazon Sales Analysis Demo](https://github.com/kamalUpaDhyAy123/Amazon_Sales_Analysis/blob/main/images/new2.gif?raw=true)
 
 
 

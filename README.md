@@ -1,5 +1,5 @@
 markdown
-# Amazon_Saless_Analysis
+# Amazon_Sales_Analysis
 
 This repository contains the project I completed during my Data Analyst Internship.
 
